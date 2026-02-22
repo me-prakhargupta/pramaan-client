@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Trusto — Your Work, Our Responsibility",
+  title: "Pramaan — Your Work, Our Responsibility",
   description: "Designed by Prakhar Gupta",
 };
 
