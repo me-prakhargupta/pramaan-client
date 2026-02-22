@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+#nprogress .bar {
+  background: #0AB68B !important;
+  height: 4px !important;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #0AB68B, 0 0 5px #0AB68B !important;
+}
+
+#nprogress .spinner {
+  display: none !important;
+}
